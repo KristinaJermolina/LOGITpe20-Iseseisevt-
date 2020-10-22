@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Iseseisevtöö\Iseseisevtöö\bin\Debug\netcoreapp3.1\Iseseisevtöö.exe
+C:\Users\opilane\source\repos\Iseseisevtöö\Iseseisevtöö\bin\Debug\netcoreapp3.1\Iseseisevtöö.deps.json
+C:\Users\opilane\source\repos\Iseseisevtöö\Iseseisevtöö\bin\Debug\netcoreapp3.1\Iseseisevtöö.runtimeconfig.json
+C:\Users\opilane\source\repos\Iseseisevtöö\Iseseisevtöö\bin\Debug\netcoreapp3.1\Iseseisevtöö.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Iseseisevtöö\Iseseisevtöö\bin\Debug\netcoreapp3.1\Iseseisevtöö.dll
+C:\Users\opilane\source\repos\Iseseisevtöö\Iseseisevtöö\bin\Debug\netcoreapp3.1\Iseseisevtöö.pdb
+C:\Users\opilane\source\repos\Iseseisevtöö\Iseseisevtöö\obj\Debug\netcoreapp3.1\Iseseisevtöö.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Iseseisevtöö\Iseseisevtöö\obj\Debug\netcoreapp3.1\Iseseisevtöö.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Iseseisevtöö\Iseseisevtöö\obj\Debug\netcoreapp3.1\Iseseisevtöö.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Iseseisevtöö\Iseseisevtöö\obj\Debug\netcoreapp3.1\Iseseisevtöö.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Iseseisevtöö\Iseseisevtöö\obj\Debug\netcoreapp3.1\Iseseisevtöö.dll
+C:\Users\opilane\source\repos\Iseseisevtöö\Iseseisevtöö\obj\Debug\netcoreapp3.1\Iseseisevtöö.pdb
+C:\Users\opilane\source\repos\Iseseisevtöö\Iseseisevtöö\obj\Debug\netcoreapp3.1\Iseseisevtöö.genruntimeconfig.cache
